@@ -1,6 +1,6 @@
 # Retirement App
 
-A simple React single-page application to help assisted-living staff and residents stay connected.  
+A simple React application to help assisted-living staff and residents stay connected.  
 Provides role-based login, resident selection, and pages for community updates, personal profiles, schedules, and service requests.
 
 ---
